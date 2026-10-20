@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 424" width="900" height="424" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">
+<defs><filter id="g2" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.4" fill="#000" opacity="0.35"/></pattern></defs>
+<rect width="900" height="424" rx="14" fill="#05010f"/>
+<text x="30" y="32" font-size="14" fill="#ff2a6d" filter="url(#g2)">// ACTIVE_PROJECTS</text>
+<rect x="196" y="22" width="9" height="9" fill="#ff2a6d"><animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" values="1;0;1" keyTimes="0;0.5;1"/></rect>
+<g transform="translate(30,52)">
+<polygon points="0,0 388,0 410,22 410,170 22,170 0,148" fill="#0a0420" fill-opacity="0.9" stroke="#ff2a6d" stroke-opacity="0.35" stroke-width="1.2"/>
+<polygon points="0,0 388,0 410,22 410,170 22,170 0,148" fill="none" stroke="#ff2a6d" stroke-width="3" stroke-dasharray="110 1068" filter="url(#g2)"><animate attributeName="stroke-dashoffset" dur="7s" begin="0s" repeatCount="indefinite" values="0;-1178"/></polygon>
+<text x="382" y="70" font-size="64" font-weight="800" fill="#ff2a6d" fill-opacity="0.09" text-anchor="end">01</text>
+<text x="22" y="40" font-size="12" fill="#ff2a6d" fill-opacity="0.8">PROJECT_01</text>
+<text x="22" y="72" font-size="26" font-weight="800" fill="#ff2a6d" filter="url(#g2)">CAMPUSSHARE<animate attributeName="opacity" dur="6s" repeatCount="indefinite" calcMode="discrete" values="1;1;0.3;1;0.5;1;1" keyTimes="0;0.7;0.71;0.73;0.74;0.76;1"/></text>
+<text x="22" y="104" font-size="13.5" fill="#d7d3ff">Peer-to-peer resource exchange for colleges.</text>
+<text x="22" y="124" font-size="13.5" fill="#d7d3ff">Email OTP login, QR handoff, admin panel.</text>
+<line x1="22" x2="388" y1="138" y2="138" stroke="#ff2a6d" stroke-opacity="0.3" stroke-dasharray="2 4"/>
+<text x="22" y="157" font-size="12" fill="#ff2a6d">&gt; MERN // NODEMAILER // JWT</text>
+</g><g transform="translate(460,52)">
+<polygon points="0,0 388,0 410,22 410,170 22,170 0,148" fill="#0a0420" fill-opacity="0.9" stroke="#05d9e8" stroke-opacity="0.35" stroke-width="1.2"/>
+<polygon points="0,0 388,0 410,22 410,170 22,170 0,148" fill="none" stroke="#05d9e8" stroke-width="3" stroke-dasharray="110 1068" filter="url(#g2)"><animate attributeName="stroke-dashoffset" dur="7s" begin="-1.7s" repeatCount="indefinite" values="0;-1178"/></polygon>
+<text x="382" y="70" font-size="64" font-weight="800" fill="#05d9e8" fill-opacity="0.09" text-anchor="end">02</text>
+<text x="22" y="40" font-size="12" fill="#05d9e8" fill-opacity="0.8">PROJECT_02</text>
+<text x="22" y="72" font-size="26" font-weight="800" fill="#05d9e8" filter="url(#g2)">HEYCHAT<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="1;1;0.3;1;0.5;1;1" keyTimes="0;0.7;0.71;0.73;0.74;0.76;1"/></text>
+<text x="22" y="104" font-size="13.5" fill="#d7d3ff">Real-time chat with live messaging and</text>
+<text x="22" y="124" font-size="13.5" fill="#d7d3ff">secure APIs for users and messages.</text>
+<line x1="22" x2="388" y1="138" y2="138" stroke="#05d9e8" stroke-opacity="0.3" stroke-dasharray="2 4"/>
+<text x="22" y="157" font-size="12" fill="#05d9e8">&gt; MERN // SOCKET.IO // JWT</text>
+</g><g transform="translate(30,244)">
+<polygon points="0,0 388,0 410,22 410,170 22,170 0,148" fill="#0a0420" fill-opacity="0.9" stroke="#ffe66d" stroke-opacity="0.35" stroke-width="1.2"/>
+<polygon points="0,0 388,0 410,22 410,170 22,170 0,148" fill="none" stroke="#ffe66d" stroke-width="3" stroke-dasharray="110 1068" filter="url(#g2)"><animate attributeName="stroke-dashoffset" dur="7s" begin="-3.4s" repeatCount="indefinite" values="0;-1178"/></polygon>
+<text x="382" y="70" font-size="64" font-weight="800" fill="#ffe66d" fill-opacity="0.09" text-anchor="end">03</text>
+<text x="22" y="40" font-size="12" fill="#ffe66d" fill-opacity="0.8">PROJECT_03</text>
+<text x="22" y="72" font-size="26" font-weight="800" fill="#ffe66d" filter="url(#g2)">U/FASHION<animate attributeName="opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" values="1;1;0.3;1;0.5;1;1" keyTimes="0;0.7;0.71;0.73;0.74;0.76;1"/></text>
+<text x="22" y="104" font-size="13.5" fill="#d7d3ff">E-commerce flow: products, cart, checkout,</text>
+<text x="22" y="124" font-size="13.5" fill="#d7d3ff">orders and Razorpay payments.</text>
+<line x1="22" x2="388" y1="138" y2="138" stroke="#ffe66d" stroke-opacity="0.3" stroke-dasharray="2 4"/>
+<text x="22" y="157" font-size="12" fill="#ffe66d">&gt; MERN // RAZORPAY // JWT</text>
+</g><g transform="translate(460,244)">
+<polygon points="0,0 388,0 410,22 410,170 22,170 0,148" fill="#0a0420" fill-opacity="0.9" stroke="#39ff14" stroke-opacity="0.35" stroke-width="1.2"/>
+<polygon points="0,0 388,0 410,22 410,170 22,170 0,148" fill="none" stroke="#39ff14" stroke-width="3" stroke-dasharray="110 1068" filter="url(#g2)"><animate attributeName="stroke-dashoffset" dur="7s" begin="-5.1s" repeatCount="indefinite" values="0;-1178"/></polygon>
+<text x="382" y="70" font-size="64" font-weight="800" fill="#39ff14" fill-opacity="0.09" text-anchor="end">04</text>
+<text x="22" y="40" font-size="12" fill="#39ff14" fill-opacity="0.8">PROJECT_04</text>
+<text x="22" y="72" font-size="26" font-weight="800" fill="#39ff14" filter="url(#g2)">EONIX<animate attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete" values="1;1;0.3;1;0.5;1;1" keyTimes="0;0.7;0.71;0.73;0.74;0.76;1"/></text>
+<text x="22" y="104" font-size="13.5" fill="#d7d3ff">eLearning platform with course and lecture</text>
+<text x="22" y="124" font-size="13.5" fill="#d7d3ff">management, JWT auth and authorization.</text>
+<line x1="22" x2="388" y1="138" y2="138" stroke="#39ff14" stroke-opacity="0.3" stroke-dasharray="2 4"/>
+<text x="22" y="157" font-size="12" fill="#39ff14">&gt; MERN // JWT // REST</text>
+</g>
+<rect width="900" height="424" rx="14" fill="url(#scan)"/>
+<rect x="0.5" y="0.5" width="899" height="423" rx="14" fill="none" stroke="#ff2a6d" stroke-opacity="0.5"/>
+</svg>
